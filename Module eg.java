@@ -7,7 +7,7 @@ class Codechef {
         int num4 = 4;
 
         // Perform modulus operation  
-        int remainder1 = num1 % num2; // 20 % 6 = 2
+        int remainder1 = num1 % num2; // 20 % 6 = 2 
         int remainder2 = num3 % num4; // 15 % 4 = 3
 
         // Print results
