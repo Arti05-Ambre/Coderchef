@@ -3,7 +3,7 @@ class Codechef {
         // Declare integer variables
         int num1 = 20;
         int num2 = 6;
-        int num3 = 15;
+        int num3 = 15; 
         int num4 = 4;
 
         // Perform modulus operation  
