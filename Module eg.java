@@ -8,7 +8,7 @@ class Codechef {
 
         // Perform modulus operation  
         int remainder1 = num1 % num2; // 20 % 6 = 2 
-        int remainder2 = num3 % num4; // 15 % 4 = 3
+        int remainder2 = num3 % num4; // 15 % 4 = 3 
 
         // Print results 
         System.out.println("Remainder when 20 is divided by 6 : " + remainder1); 
