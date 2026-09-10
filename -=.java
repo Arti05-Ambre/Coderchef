@@ -9,3 +9,4 @@ class Codechef {
         System.out.println("Updated Wallet Balance: " + walletBalance);
     }
 }
+ 
