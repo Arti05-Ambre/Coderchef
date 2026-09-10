@@ -8,5 +8,5 @@ class Codechef {
         // Printing the updated balance
         System.out.println("Updated Wallet Balance: " + walletBalance);
     }
-}
+} 
  
