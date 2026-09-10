@@ -13,5 +13,6 @@ class Codechef {
        boolean isEligibleForLoan = (creditScore >= 700) || (monthlyIncome >= 50000);
         // Step 4: Display the loan eligibility result
         System.out.println("Eligible for Loan: " + isEligibleForLoan);
-    }
+    }}
+
 }
