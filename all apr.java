@@ -5,7 +5,7 @@ class Codechef {
         // Example 1: Multiplication has higher precedence than addition
         result = a + b * c;  // 10 + (5 * 2) = 10 + 10 = 20
         System.out.println("Example 1 (Multiplication before Addition): " + result);
- 
+   
         // Example 2: Parentheses change the precedence 
         result = (a + b) * c; // (10 + 5) * 2 = 15 * 2 = 30
         System.out.println("Example 2 (Using Parentheses): " + result);  
