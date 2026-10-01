@@ -9,3 +9,4 @@ class Codechef {
         System.out.println("Total Cost: " + costPerItem);
     }
 }
+   
