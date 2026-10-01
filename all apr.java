@@ -1,6 +1,6 @@
 class Codechef {
     public static void main(String[] args) {
-        int a = 10, b = 5, c = 2, result;
+        int a = 10, b = 5, c = 2, result; 
 
         // Example 1: Multiplication has higher precedence than addition
         result = a + b * c;  // 10 + (5 * 2) = 10 + 10 = 20
