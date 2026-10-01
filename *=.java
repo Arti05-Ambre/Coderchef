@@ -4,7 +4,7 @@ class Codechef {
 
         // Calculating total cost using *= operator
         costPerItem *= 4;
-
+   
         // Printing the total cost
         System.out.println("Total Cost: " + costPerItem);
     }
