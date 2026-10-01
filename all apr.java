@@ -10,7 +10,7 @@ class Codechef {
         result = (a + b) * c; // (10 + 5) * 2 = 15 * 2 = 30
         System.out.println("Example 2 (Using Parentheses): " + result);  
         // Example 3: Division has higher precedence than subtraction
-        result = a - b / c;  // 10 - (5 / 2) = 10 - 2 = 8 (Integer Division)
+        result = a - b / c;  // 10 - (5 / 2) = 10 - 2 = 8 (Integer Division 
         System.out.println("Example 3 (Division before Subtraction): " + result);
 
         // Example 4: Modulus and Multiplication
