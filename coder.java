@@ -12,7 +12,7 @@ class Codechef
         int t = read.nextInt();
         for(int i=0; i<t; i++) 
         { 
-            int n = read.nextInt();
+            int n = read.nextInt(); 
             System.out.println(n+1);
         }
 	}
