@@ -15,5 +15,5 @@ class Codechef {
         System.out.println("Eligible for Loan: " + isEligibleForLoan);
     }}
 
-}  
+}   
    
