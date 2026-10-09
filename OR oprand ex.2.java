@@ -4,7 +4,7 @@ class Codechef {
         int creditScore = 650;
  
         // Step 2: Define the monthly income of the applicant
-        double monthlyIncome = 55000;
+        double monthlyIncome = 55000; 
   
         // Step 3: Evaluate the loan eligibility using the OR operator  
         // The applicant is eligible if their credit score is 700 or higher,
