@@ -2,7 +2,7 @@ class Codechef {
     public static void main(String[] args) {
         // Step 1: Define the credit score of the applicant
         int creditScore = 650;
-
+ 
         // Step 2: Define the monthly income of the applicant
         double monthlyIncome = 55000;
 
