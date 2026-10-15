@@ -1,4 +1,4 @@
-class Codechef {
+ class Codechef {
     public static void main(String[] args) {
         // Declare integer variables
         int num1 = 20;
