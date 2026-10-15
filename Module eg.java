@@ -14,5 +14,5 @@ class Codechef {
         System.out.println("Remainder when 20 is divided by 6 : " + remainder1); 
         System.out.println("Remainder when 15 is divided by 4 : " + remainder2);
     }
-}
+} 
 
